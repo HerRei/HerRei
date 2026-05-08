@@ -1,29 +1,89 @@
 # Hi 👋, I'm Hermès
 
-### A budding developer
+### CS student in Basel, Switzerland — building practical projects with Python, Java, C++, web tech, and embedded systems.
 
-- 🔭 I'm currently working on **Developing a multiplayer game using a client-server architecture**
+I'm interested in software engineering, data science, creative AI, algorithms, and small tools that solve real problems.  
+Right now, I am using GitHub to document projects properly, clean up older experiments, and build a portfolio that shows how I work.
 
-- 🌱 I'm currently learning **Advanced Java development, modeling Partial Differential Equations (PDEs) in MATLAB, and game engine architecture.**
+- 🔭 Currently working on **AI/music generation, embedded transport displays, algorithm visualizations, and automation tools**
+- 🌱 Currently learning **machine learning workflows, Java software design, data science, and numerical methods**
+- 🛠️ I like building **small complete projects** with docs, demos, tests, and clean repository structure
+- 💬 Ask me about **Python, Java, GitHub Pages, ESP32 projects, algorithms, or project documentation**
+- 📫 Reach me at **hermesnathanheiniger@gmail.com**
+- 👨‍💻 My projects are available here: **[github.com/HerRei](https://github.com/HerRei)**
 
-- 👯 I'm looking to collaborate on **Open-source Java projects or networked multiplayer games**
+---
 
-- 🤝 I'm looking for help with **Mastering system design and optimizing server-side performance.**
+## Featured Projects
 
-- 💬 Ask me about **Java development, game architecture, or why PDEs are actually cool.**
+### 🎹 GPT-2 Piano MPS 12k
+A symbolic piano generation project using a GPT-2 style model, MIDI tokenization, Apple Silicon MPS training, checkpoint comparison, and generated MIDI samples.
 
-- 📫 How to reach me **hermesnathanheiniger@gmail.com**
+**Tech:** Python, PyTorch/MPS, MIDI, tokenization, ML workflow  
+**Repo:** [gpt2-piano-mps-12k](https://github.com/HerRei/gpt2-piano-mps-12k)
 
-- ⚡ Fun fact **100% Caffeine**
+---
 
-- 👨‍💻 All of my projects are available at **[https://herrei.github.io/mockup/](https://herrei.github.io/mockup/)**
+### 🚆 ESP32 SBB Tracker
+An ESP32-based Swiss public transport departure display using live OpenData API updates, JSON filtering, watchdog recovery, and a GitHub Pages showcase.
 
-<h3 align="left">Connect with me:</h3>
+**Tech:** C++, Arduino, ESP32, ST7789 display, API integration  
+**Repo:** [Sbb_Tracker_Sissach](https://github.com/HerRei/Sbb_Tracker_Sissach)  
+**Demo:** [Live showcase](https://herrei.github.io/Sbb_Tracker_Sissach/)
+
+---
+
+### 🐜 TSP Ant Colony Optimization GUI
+A Java/Maven project for experimenting with Ant Colony Optimization on the Traveling Salesman Problem, including visualizations, parameter tuning, and a browser demo.
+
+**Tech:** Java, Maven, Swing, algorithms, JUnit, JavaScript demo  
+**Repo:** [tsp_aco_gui](https://github.com/HerRei/tsp_aco_gui)  
+**Demo:** [Live demo](https://herrei.github.io/tsp_aco_gui/)
+
+---
+
+### 📊 Google Sheets Automation
+A small Flask/Python application for logging delivery and bookkeeping entries into Google Sheets, with a structured package layout and tests.
+
+**Tech:** Python, Flask, Google Sheets API, pytest  
+**Repo:** [google_sheets_automation](https://github.com/HerRei/google_sheets_automation)
+
+---
+
+### 🎮 HTML5 Canvas Game Mockup
+A small browser-based game mockup built with vanilla JavaScript and HTML5 Canvas, used to explore grid movement, pathfinding, and gameplay ideas.
+
+**Tech:** JavaScript, HTML5 Canvas, CSS, Jest  
+**Repo:** [mockup](https://github.com/HerRei/mockup)  
+**Demo:** [Live demo](https://herrei.github.io/mockup/)
+
+---
+
+## Connect with me
+
 <p align="left">
-<a href="https://github.com/HerRei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HerRei" height="30" width="40" /></a>
-<a href="https://instagram.com/Hermes.tn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hermes.tn" height="30" width="40" /></a>
+  <a href="https://github.com/HerRei" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/hermes-nathan-reisner-171143353" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+---
 
+## Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,nodejs,express,flask,arduino,docker,linux,git,github,maven,sqlite,tensorflow" />
+</p>
+
+---
+
+## Current focus
+
+- Improving project READMEs and GitHub Pages demos
+- Building cleaner Python and Java project structures
+- Exploring symbolic music generation and small ML experiments
+- Creating practical embedded projects with ESP32 and public APIs
+- Learning better testing, documentation, and software design habits
