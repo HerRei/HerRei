@@ -14,6 +14,7 @@ A symbolic piano generation project with MIDI tokenization, GPT-2 training on Ap
 
 - **Tech:** Python, PyTorch/MPS, MIDI, tokenization
 - **Repo:** [gpt2-piano-mps-12k](https://github.com/HerRei/gpt2-piano-mps-12k)
+- **Demo:** [Live showcase](https://herrei.github.io/gpt2-piano-mps-12k/)
 
 ### ESP32 SBB Tracker
 
