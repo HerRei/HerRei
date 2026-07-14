@@ -46,6 +46,13 @@ A browser game experiment with grid movement and pathfinding.
 - **Repo:** [mockup](https://github.com/HerRei/mockup)
 - **Demo:** [Live demo](https://herrei.github.io/mockup/)
 
+### Telegram YouTube Player
+
+A Linux service that takes YouTube links or search requests from Telegram and opens them fullscreen on a chosen monitor.
+
+- **Tech:** Python, Linux, systemd, Telegram Bot API, Ollama, Firefox
+- **Repo:** [telegram-youtube-player](https://github.com/HerRei/telegram-youtube-player)
+
 ## Connect
 
 <p align="left">
