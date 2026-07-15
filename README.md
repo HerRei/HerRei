@@ -26,7 +26,7 @@ An ESP32 departure display for Swiss public transport, using live OpenData updat
 
 ### TSP Ant Colony Optimization GUI
 
-A Java application for trying Ant Colony Optimization on the Traveling Salesman Problem, with visualizations and adjustable parameters.
+A Java application for trying Ant Colony Optimization on the Traveling Salesman Problem, with visualizations and adjustable paramters.
 
 - **Tech:** Java, Maven, Swing, JUnit, JavaScript
 - **Repo:** [tsp_aco_gui](https://github.com/HerRei/tsp_aco_gui)
