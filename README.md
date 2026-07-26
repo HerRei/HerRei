@@ -24,6 +24,13 @@ An ESP32 departure display for Swiss public transport, using live OpenData updat
 - **Repo:** [Sbb_Tracker_Sissach](https://github.com/HerRei/Sbb_Tracker_Sissach)
 - **Demo:** [Live showcase](https://herrei.github.io/Sbb_Tracker_Sissach/)
 
+### Nature Inventory Delta
+
+A local FastAPI and Streamlit tool for exploring changes in Basel-Stadt's public nature inventory data.
+
+- **Repo:** [nature-inventory-delta-ai](https://github.com/HerRei/nature-inventory-delta-ai)
+- **Demo:** Not hosted yet
+
 ### TSP Ant Colony Optimization GUI
 
 A Java application for trying Ant Colony Optimization on the Traveling Salesman Problem, with visualizations and adjustable paramters.
