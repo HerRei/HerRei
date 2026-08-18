@@ -24,12 +24,6 @@ An ESP32 departure display for Swiss public transport, using live OpenData updat
 - **Repo:** [Sbb_Tracker_Sissach](https://github.com/HerRei/Sbb_Tracker_Sissach)
 - **Demo:** [Live showcase](https://herrei.github.io/Sbb_Tracker_Sissach/)
 
-### Nature Inventory Delta
-
-A local FastAPI and Streamlit tool for exploring changes in Basel-Stadt's public nature inventory data.
-
-- **Repo:** [nature-inventory-delta-ai](https://github.com/HerRei/nature-inventory-delta-ai)
-- **Demo:** Not hosted yet
 
 ### TSP Ant Colony Optimization GUI
 
@@ -53,13 +47,6 @@ A browser game experiment with grid movement and pathfinding.
 - **Tech:** JavaScript, HTML5 Canvas, CSS, Jest
 - **Repo:** [mockup](https://github.com/HerRei/mockup)
 - **Demo:** [Live demo](https://herrei.github.io/mockup/)
-
-### Telegram YouTube Player
-
-A Linux service that takes YouTube links or search requests from Telegram and opens them fullscreen on a chosen monitor.
-
-- **Tech:** Python, Linux, systemd, Telegram Bot API, Ollama, Firefox
-- **Repo:** [telegram-youtube-player](https://github.com/HerRei/telegram-youtube-player)
 
 ## Connect
 
