@@ -54,7 +54,7 @@ A Java application for trying Ant Colony Optimization on the Traveling Salesman 
 ## Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,nodejs,express,flask,arduino,docker,linux,git,github,maven,sqlite,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,arduino,linux,git,github,pytorch,fastapi" />
 </p>
 
 ## Right now
