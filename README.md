@@ -33,12 +33,6 @@ A Java application for trying Ant Colony Optimization on the Traveling Salesman 
 - **Repo:** [tsp_aco_gui](https://github.com/HerRei/tsp_aco_gui)
 - **Demo:** [Live demo](https://herrei.github.io/tsp_aco_gui/)
 
-### Google Sheets Automation
-
-A small Flask app for logging delivery and bookkeeping entries in Google Sheets.
-
-- **Tech:** Python, Flask, Google Sheets API, pytest
-- **Repo:** [google_sheets_automation](https://github.com/HerRei/google_sheets_automation)
 
 ### HTML5 Canvas Game Mockup
 
