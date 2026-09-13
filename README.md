@@ -1,62 +1,34 @@
 # Hi, I'm Hermès
 
-I'm a CS student in Basel. I mostly build things with Python, Java, C, C++, and ESP32 boards.
+I'm a computer science student in Basel. I build tools for image restoration,
+ML training, music and embedded systems, mostly with Python, C, C++, Java and
+ESP32 boards.
 
-This profile is a mix of school projects, experiments, and small tools I wanted to use myself. Lately I've been working on ML training tooling, super-resolution, music generation, and embedded systems.
+## LocalSR
 
-You can reach me at **hermesnathanheiniger@gmail.com** or have a look through my [repositories](https://github.com/HerRei).
+A desktop app for restoring images and video on your own computer. Choose an
+upscaling or denoising model, queue your files, watch the processed tiles appear
+and compare the results. Built with Rust, Tauri, Svelte and PyTorch.
 
-## Featured Projects
+I'm preparing the public beta for macOS, Windows and Linux. Testing includes
+Apple Silicon/MPS, AMD ROCm and Windows CPU/Intel integrated graphics; experimental
+features and hardware with limited testing are marked Labs.
 
-### train-tui
+[Explore LocalSR](https://herrei.github.io/localsr/) · Public beta and source release in preparation
 
-A lightweight terminal dashboard for monitoring AI training runs — pure C, no dependencies. Pluggable profiles for BasicSR, PyTorch Lightning, HuggingFace, and custom frameworks. AMD and NVIDIA GPU support.
+## Other projects
 
-- **Tech:** C, ANSI, sysfs, nvidia-smi
-- **Repo:** [train-tui](https://github.com/HerRei/train-tui)
-- **Demo:** [Live demo](https://herrei.github.io/train-tui/)
+| Project | What it does | Links |
+| --- | --- | --- |
+| **train-tui** | A C terminal dashboard for ML training runs, with AMD and NVIDIA GPU monitoring. | [Code](https://github.com/HerRei/train-tui) · [Demo](https://herrei.github.io/train-tui/) |
+| **GPT-2 Piano MPS 12k** | MIDI tokenization, piano generation and checkpoint comparisons on Apple Silicon. | [Code](https://github.com/HerRei/gpt2-piano-mps-12k) · [Showcase](https://herrei.github.io/gpt2-piano-mps-12k/) |
+| **ESP32 SBB Tracker** | A Swiss public transport departure display using live data and an ST7789 screen. | [Code](https://github.com/HerRei/Sbb_Tracker_Sissach) · [Showcase](https://herrei.github.io/Sbb_Tracker_Sissach/) |
+| **TSP Ant Colony Optimization** | A Java/Swing application for exploring the traveling salesman problem. | [Code](https://github.com/HerRei/tsp_aco_gui) · [Demo](https://herrei.github.io/tsp_aco_gui/) |
 
-### GPT-2 Piano MPS 12k
+## Contact
 
-A symbolic piano generation project with MIDI tokenization, GPT-2 training on Apple Silicon, checkpoint comparisons, and generated samples.
+[Email](mailto:hermesnathanheiniger@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/hermes-nathan-reisner-171143353) ·
+[Repositories](https://github.com/HerRei?tab=repositories)
 
-- **Tech:** Python, PyTorch/MPS, MIDI, tokenization
-- **Repo:** [gpt2-piano-mps-12k](https://github.com/HerRei/gpt2-piano-mps-12k)
-- **Demo:** [Live showcase](https://herrei.github.io/gpt2-piano-mps-12k/)
-
-### ESP32 SBB Tracker
-
-An ESP32 departure display for Swiss public transport, using live OpenData updates and an ST7789 screen.
-
-- **Tech:** C++, Arduino, ESP32, ST7789 display, API integration
-- **Repo:** [Sbb_Tracker_Sissach](https://github.com/HerRei/Sbb_Tracker_Sissach)
-- **Demo:** [Live showcase](https://herrei.github.io/Sbb_Tracker_Sissach/)
-
-### TSP Ant Colony Optimization GUI
-
-A Java application for trying Ant Colony Optimization on the Traveling Salesman Problem, with visualizations and adjustable parameters.
-
-- **Tech:** Java, Maven, Swing, JUnit, JavaScript
-- **Repo:** [tsp_aco_gui](https://github.com/HerRei/tsp_aco_gui)
-- **Demo:** [Live demo](https://herrei.github.io/tsp_aco_gui/)
-
-## Connect
-
-<p align="left">
-  <a href="https://github.com/HerRei" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/hermes-nathan-reisner-171143353" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-## Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,arduino,linux,git,github,pytorch,fastapi" />
-</p>
-
-## Right now
-
-I'm cleaning up older projects, improving their docs and demos, and spending most of my project time on ML training tooling, embedded systems, and algorithms.
+For LocalSR questions and private reports: [hermes.reisner@gmail.com](mailto:hermes.reisner@gmail.com).
