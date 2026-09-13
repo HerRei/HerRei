@@ -29,6 +29,7 @@ features and hardware with limited testing are marked Labs.
 | **Google Sheets Automation** | Python automation for Google Sheets bookkeeping workflows, replacing repetitive manual logging with tested scripts. | [Code](https://github.com/HerRei/google_sheets_automation) · [Docs](https://herrei.github.io/google_sheets_automation/) |
 | **Telegram YouTube Player** | Telegram-controlled fullscreen YouTube playback on a selected Linux monitor. | [Code](https://github.com/HerRei/telegram-youtube-player) |
 | **HAT (fork)** | My fork of the CVPR 2023 / TPAMI image-restoration transformer, extended with face-restoration fine-tuning experiments and recovery reports. | [Code](https://github.com/HerRei/HAT) |
+| **Quantum Blender AO** | A self-directed experiment comparing exact, Monte Carlo, and simulated quantum amplitude estimation for ambient visibility in Blender renders. | [Code](https://github.com/HerRei/quantum-blender-ao) |
 
 ## Contact
 
