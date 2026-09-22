@@ -4,7 +4,7 @@ I'm a computer science student in Basel. I build tools for image restoration,
 ML training, music and embedded systems, mostly with Python, C, C++, Java and
 ESP32 boards.
 
-The write-ups, my photographs and my CV are at
+My portfolio and CV can be found here:
 **[hermesreisner.com](https://hermesreisner.com/)**.
 
 ## LocalSR
