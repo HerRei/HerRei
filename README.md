@@ -13,6 +13,7 @@ A free, open-source desktop app for upscaling, denoising and restoring images
 and video on your own computer. It runs on macOS (Metal), Windows and Linux;
 Tauri and Svelte host, PyTorch engine. In beta.
 
+[Try it in your browser](https://herrei.github.io/localsr/demo/) ·
 [Showcase and downloads](https://herrei.github.io/localsr/) ·
 [Source](https://github.com/HerRei/local-upscale) ·
 [Write-up](https://hermesreisner.com/work/localsr/)
@@ -21,7 +22,7 @@ Tauri and Svelte host, PyTorch engine. In beta.
 
 | Project | What it does | Links |
 | --- | --- | --- |
-| **LocalSR** | A free, open-source desktop app for upscaling, denoising and restoring images and video on your own computer. It runs on macOS, Windows and Linux. | [Code](https://github.com/HerRei/local-upscale) · [Showcase](https://herrei.github.io/localsr/) · [Write-up](https://hermesreisner.com/work/localsr/) |
+| **LocalSR** | A free, open-source desktop app for upscaling, denoising and restoring images and video on your own computer. It runs on macOS, Windows and Linux. | [Code](https://github.com/HerRei/local-upscale) · [Demo](https://herrei.github.io/localsr/demo/) · [Showcase](https://herrei.github.io/localsr/) · [Write-up](https://hermesreisner.com/work/localsr/) |
 | **GPT-2 piano** | A GPT-2-style model trained on 12k MIDI files with REMI tokenization on Apple Silicon. It generates piano continuations. | [Code](https://github.com/HerRei/gpt2-piano-mps-12k) · [Showcase](https://herrei.github.io/gpt2-piano-mps-12k/) · [Write-up](https://hermesreisner.com/work/gpt2-piano/) |
 | **train-tui** | A dependency-free C terminal dashboard for ML training runs, with AMD and NVIDIA GPU monitoring. | [Code](https://github.com/HerRei/train-tui) · [Demo](https://herrei.github.io/train-tui/) · [Write-up](https://hermesreisner.com/work/train-tui/) |
 | **SBB departure board** | An ESP32 display for Swiss public transport departures, updated live from the OpenData API. | [Code](https://github.com/HerRei/Sbb_Tracker_Sissach) · [Showcase](https://herrei.github.io/Sbb_Tracker_Sissach/) · [Write-up](https://hermesreisner.com/work/departure-board/) |
