@@ -18,7 +18,8 @@ presets use my own small photo models, which run on Apple's Neural Engine.
 [Showcase and downloads](https://herrei.github.io/localsr/) ·
 [Source](https://github.com/HerRei/local-upscale) ·
 [Write-up](https://hermesreisner.com/work/localsr/) ·
-[Models](https://github.com/HerRei/localsr-models)
+[Models](https://github.com/HerRei/localsr-models) ·
+[Models write-up](https://hermesreisner.com/work/localsr-models/)
 
 On a Mac: `brew install --cask herrei/tap/localsr`
 
@@ -27,7 +28,7 @@ On a Mac: `brew install --cask herrei/tap/localsr`
 | Project | What it does | Links |
 | --- | --- | --- |
 | **LocalSR** | A free, open-source desktop app for upscaling, denoising and restoring images and video on your own computer. It runs on macOS, Windows and Linux. | [Code](https://github.com/HerRei/local-upscale) · [Demo](https://herrei.github.io/localsr/demo/) · [Showcase](https://herrei.github.io/localsr/) · [Write-up](https://hermesreisner.com/work/localsr/) |
-| **LocalSR Photo models** | Two small 4x photo upscalers for LocalSR, trained only on CC0 photos. They run entirely on Apple's Neural Engine and stay fast on old computers without one. | [Code](https://github.com/HerRei/localsr-models) · [Download](https://github.com/HerRei/localsr-models/releases/tag/v1) · [Report (PDF)](https://github.com/HerRei/localsr-models/blob/master/report/localsr-models.pdf) |
+| **LocalSR Photo models** | Two small 4x photo upscalers for LocalSR, trained only on CC0 photos. They run entirely on Apple's Neural Engine and stay fast on old computers without one. | [Code](https://github.com/HerRei/localsr-models) · [Download](https://github.com/HerRei/localsr-models/releases/tag/v1) · [Report (PDF)](https://github.com/HerRei/localsr-models/blob/master/report/localsr-models.pdf) · [Write-up](https://hermesreisner.com/work/localsr-models/) |
 | **gfx906 decode kernels** | Two llama.cpp HIP kernels that make single-token decode faster on AMD gfx906 cards (Radeon VII, MI50, MI60). Written with an AI agent, then checked against llama.cpp's CPU reference and measured on the card. | [Code](https://github.com/HerRei/gfx906-decode-kernels) · [Write-up (PDF)](https://github.com/HerRei/gfx906-decode-kernels/blob/main/writeup/gfx906-decode-kernels.pdf) |
 | **FlashVSR for Apple Silicon** | An unofficial MLX port of FlashVSR v1.1, a one-step diffusion model that upscales video 4x. The sparse attention runs in its own Metal kernel. | [Code](https://github.com/HerRei/flashvsr-mlx) |
 | **SEC filing forecasts** | A small Transformer that forecasts how far a stock can move after a 10-Q or 10-K filing. The final test rules were written down and hashed before any outcome existed, then run once on 3,329 real filings. | [Code](https://github.com/HerRei/sec-filing-forecasts) · [Demo](https://herrei.github.io/sec-filing-forecasts/) · [Findings (PDF)](https://github.com/HerRei/sec-filing-forecasts/blob/main/findings/findings.pdf) · [Write-up](https://hermesreisner.com/work/finance-forecasting/) |
